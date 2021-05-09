@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java9.ModuleExample.First/Java9.ModuleExample.First.iml" filepath="$PROJECT_DIR$/Java9.ModuleExample.First/Java9.ModuleExample.First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9.ModuleExample.Two/Java9.ModuleExample.Two.iml" filepath="$PROJECT_DIR$/Java9.ModuleExample.Two/Java9.ModuleExample.Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleExample.iml" filepath="$PROJECT_DIR$/ModuleExample.iml" />
+    </modules>
+  </component>
+</project>
